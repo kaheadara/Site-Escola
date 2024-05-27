@@ -30,3 +30,20 @@
     }
     .escola-titulo{
         padding: 24px 0;
+    }
+    .estudante-icone {
+        width: 24px;
+        margin-bottom: 20px;
+    }
+    .estudante-div {
+        text-align: center;
+    }
+    .estudante-titulo {
+        text-align: center;
+        padding: 50px 0;
+    }
+    .estudante-todos {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        text-align: center;
+    }
