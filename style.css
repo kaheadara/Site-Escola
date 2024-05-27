@@ -18,6 +18,10 @@ body {
     width: 7%;
 }
 
+span {
+    color: #000000;
+}
+
 .cabecalho-lista-item{
     display: inline-block;
     margin: 0 16px;
