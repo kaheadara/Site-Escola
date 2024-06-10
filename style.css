@@ -55,6 +55,7 @@ span {
     padding: 24px 0;
 }
 
+
 #estudante{
     padding: 24px 0;
 }
@@ -82,4 +83,14 @@ span {
 .estudante-todos{
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
+}
+
+.rodape{
+    text-align: center;
+}
+
+.rodape-imagem{
+    height: 400px;
+    padding: 12px 0;
+   
 }
